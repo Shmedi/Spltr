@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/eduardTupyProjectFive/static/css/main.f0f205b6.chunk.css",
-    "main.js": "/eduardTupyProjectFive/static/js/main.adce921d.chunk.js",
-    "main.js.map": "/eduardTupyProjectFive/static/js/main.adce921d.chunk.js.map",
+    "main.js": "/eduardTupyProjectFive/static/js/main.e456a3fe.chunk.js",
+    "main.js.map": "/eduardTupyProjectFive/static/js/main.e456a3fe.chunk.js.map",
     "runtime-main.js": "/eduardTupyProjectFive/static/js/runtime-main.9fcc0ab8.js",
     "runtime-main.js.map": "/eduardTupyProjectFive/static/js/runtime-main.9fcc0ab8.js.map",
     "static/js/2.b9a90f13.chunk.js": "/eduardTupyProjectFive/static/js/2.b9a90f13.chunk.js",
     "static/js/2.b9a90f13.chunk.js.map": "/eduardTupyProjectFive/static/js/2.b9a90f13.chunk.js.map",
     "index.html": "/eduardTupyProjectFive/index.html",
-    "precache-manifest.15837d72715f3f04480305b4d70f4c95.js": "/eduardTupyProjectFive/precache-manifest.15837d72715f3f04480305b4d70f4c95.js",
+    "precache-manifest.98f2e01ce5768be99c6b1c435a824240.js": "/eduardTupyProjectFive/precache-manifest.98f2e01ce5768be99c6b1c435a824240.js",
     "service-worker.js": "/eduardTupyProjectFive/service-worker.js",
     "static/css/main.f0f205b6.chunk.css.map": "/eduardTupyProjectFive/static/css/main.f0f205b6.chunk.css.map",
     "static/js/2.b9a90f13.chunk.js.LICENSE.txt": "/eduardTupyProjectFive/static/js/2.b9a90f13.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9fcc0ab8.js",
     "static/js/2.b9a90f13.chunk.js",
     "static/css/main.f0f205b6.chunk.css",
-    "static/js/main.adce921d.chunk.js"
+    "static/js/main.e456a3fe.chunk.js"
   ]
 }
