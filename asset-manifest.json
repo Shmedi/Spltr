@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/eduardTupyProjectFive/static/css/main.e05c179c.chunk.css",
-    "main.js": "/eduardTupyProjectFive/static/js/main.5bd672e8.chunk.js",
-    "main.js.map": "/eduardTupyProjectFive/static/js/main.5bd672e8.chunk.js.map",
+    "main.css": "/eduardTupyProjectFive/static/css/main.8d7aaaa1.chunk.css",
+    "main.js": "/eduardTupyProjectFive/static/js/main.2dd193e7.chunk.js",
+    "main.js.map": "/eduardTupyProjectFive/static/js/main.2dd193e7.chunk.js.map",
     "runtime-main.js": "/eduardTupyProjectFive/static/js/runtime-main.9fcc0ab8.js",
     "runtime-main.js.map": "/eduardTupyProjectFive/static/js/runtime-main.9fcc0ab8.js.map",
     "static/js/2.d15fa9c5.chunk.js": "/eduardTupyProjectFive/static/js/2.d15fa9c5.chunk.js",
     "static/js/2.d15fa9c5.chunk.js.map": "/eduardTupyProjectFive/static/js/2.d15fa9c5.chunk.js.map",
     "index.html": "/eduardTupyProjectFive/index.html",
-    "precache-manifest.0bb38886c48c1c32e2fe00fa1e74e21b.js": "/eduardTupyProjectFive/precache-manifest.0bb38886c48c1c32e2fe00fa1e74e21b.js",
+    "precache-manifest.9b7d85ddd4f20fadede30ac6de59dba3.js": "/eduardTupyProjectFive/precache-manifest.9b7d85ddd4f20fadede30ac6de59dba3.js",
     "service-worker.js": "/eduardTupyProjectFive/service-worker.js",
-    "static/css/main.e05c179c.chunk.css.map": "/eduardTupyProjectFive/static/css/main.e05c179c.chunk.css.map",
+    "static/css/main.8d7aaaa1.chunk.css.map": "/eduardTupyProjectFive/static/css/main.8d7aaaa1.chunk.css.map",
     "static/js/2.d15fa9c5.chunk.js.LICENSE.txt": "/eduardTupyProjectFive/static/js/2.d15fa9c5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9fcc0ab8.js",
     "static/js/2.d15fa9c5.chunk.js",
-    "static/css/main.e05c179c.chunk.css",
-    "static/js/main.5bd672e8.chunk.js"
+    "static/css/main.8d7aaaa1.chunk.css",
+    "static/js/main.2dd193e7.chunk.js"
   ]
 }
