@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "10f2fe1c2105b5548d49ad23cb084150",
+    "revision": "015960c58c7b5daec1dde561537e94ad",
     "url": "/eduardTupyProjectFive/index.html"
   },
   {
-    "revision": "28a5bbb8fa3b3a6ed193",
-    "url": "/eduardTupyProjectFive/static/css/main.c274eb33.chunk.css"
+    "revision": "15352b2fa701c89642e5",
+    "url": "/eduardTupyProjectFive/static/css/main.389d74cf.chunk.css"
   },
   {
     "revision": "044b32b0a5be2fab0b9b",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/eduardTupyProjectFive/static/js/2.d15fa9c5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "28a5bbb8fa3b3a6ed193",
+    "revision": "15352b2fa701c89642e5",
     "url": "/eduardTupyProjectFive/static/js/main.056b25ad.chunk.js"
   },
   {
