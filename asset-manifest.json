@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Spltr/static/css/main.198951fb.chunk.css",
-    "main.js": "/Spltr/static/js/main.f3b54e1a.chunk.js",
-    "main.js.map": "/Spltr/static/js/main.f3b54e1a.chunk.js.map",
+    "main.js": "/Spltr/static/js/main.f0b1a6fc.chunk.js",
+    "main.js.map": "/Spltr/static/js/main.f0b1a6fc.chunk.js.map",
     "runtime-main.js": "/Spltr/static/js/runtime-main.bcc80bbc.js",
     "runtime-main.js.map": "/Spltr/static/js/runtime-main.bcc80bbc.js.map",
     "static/js/2.eefda5b2.chunk.js": "/Spltr/static/js/2.eefda5b2.chunk.js",
     "static/js/2.eefda5b2.chunk.js.map": "/Spltr/static/js/2.eefda5b2.chunk.js.map",
     "index.html": "/Spltr/index.html",
-    "precache-manifest.95b7e2d7c3fd1f6a813a576ab522904c.js": "/Spltr/precache-manifest.95b7e2d7c3fd1f6a813a576ab522904c.js",
+    "precache-manifest.c621bc2d51781646b7f28dfe6b89b011.js": "/Spltr/precache-manifest.c621bc2d51781646b7f28dfe6b89b011.js",
     "service-worker.js": "/Spltr/service-worker.js",
     "static/css/main.198951fb.chunk.css.map": "/Spltr/static/css/main.198951fb.chunk.css.map",
     "static/js/2.eefda5b2.chunk.js.LICENSE.txt": "/Spltr/static/js/2.eefda5b2.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.bcc80bbc.js",
     "static/js/2.eefda5b2.chunk.js",
     "static/css/main.198951fb.chunk.css",
-    "static/js/main.f3b54e1a.chunk.js"
+    "static/js/main.f0b1a6fc.chunk.js"
   ]
 }

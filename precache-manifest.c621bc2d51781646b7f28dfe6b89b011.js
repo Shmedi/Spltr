@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4da0f723dc77f9882f45b7a7ae515383",
+    "revision": "ad40832bfca81af6ee665306aa233815",
     "url": "/Spltr/index.html"
   },
   {
-    "revision": "40da14902d4a40207c5d",
+    "revision": "08af33b67ab21d062653",
     "url": "/Spltr/static/css/main.198951fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Spltr/static/js/2.eefda5b2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "40da14902d4a40207c5d",
-    "url": "/Spltr/static/js/main.f3b54e1a.chunk.js"
+    "revision": "08af33b67ab21d062653",
+    "url": "/Spltr/static/js/main.f0b1a6fc.chunk.js"
   },
   {
     "revision": "c11068b41b6782caea8e",
